@@ -1,0 +1,36 @@
+first_45_05_n_estimators,first_45_05_random state,first_45_05_max_depth
+140,42,7
+second_45_05_n_estimators,second_45_05_random state,second_45_05_max_depth
+130,42,10
+third_45_05_n_estimators,third_45_05_random state,third_45_05_max_depth
+130,25,9
+first_45_5_n_estimators,first_45_5_random state,first_45_5_max_depth
+150,42,7
+second_45_5_n_estimators,second_45_5_random state,second_45_5_max_depth
+150,30,10
+third_45_5_n_estimators,third_45_5_random state,third_45_5_max_depth
+160,42,9
+first_45_95_n_estimators,first_45_95_random state,first_45_95_max_depth
+140,42,7
+second_45_95_n_estimators,second_45_95_random state,second_45_95_max_depth
+100,25,10
+third_45_95_n_estimators,third_45_95_random state,third_45_95_max_depth
+170,30,9
+first_85_05_n_estimators,first_85_05_random state,first_85_05_max_depth
+130,42,7
+second_85_05_n_estimators,second_85_05_random state,second_85_05_max_depth
+170,42,10
+third_85_05_n_estimators,third_85_05_random state,third_85_05_max_depth
+130,30,10
+first_85_5_n_estimators,first_85_5_random state,first_85_5_max_depth
+110,42,7
+second_85_5_n_estimators,second_85_5_random state,second_85_5_max_depth
+170,30,10
+third_85_5_n_estimators,third_85_5_random state,third_85_5_max_depth
+160,35,9
+first_85_95_n_estimators,first_85_95_random state,first_85_95_max_depth
+140,42,7
+second_85_95_n_estimators,second_85_95_random state,second_85_95_max_depth
+160,35,10
+third_85_95_n_estimators,third_85_95_random state,third_85_95_max_depth
+140,25,10
